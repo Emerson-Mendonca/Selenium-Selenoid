@@ -1,9 +1,5 @@
 # Selenium Test Google forms
 
-## Getting Started
-Clonar o projeto de automação
-https://alelo.visualstudio.com/AleloAuto-2.0/_git/aleloauto-automacao
-
 ### Prerequisites
 
 * JDK - 1.8
