@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="com.selenium.navegation.runner.RunSuiteTest" time="38.261" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.8-internal+0-adhoc..jdk11u"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.8.10-hotspot\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\Projetos\Selenium\selenium_navegation"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\Projetos\Selenium\selenium_navegation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="11.0.8-internal+0-adhoc..jdk11u"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\emers\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Maven\apache-maven-3.8.4\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\OpenJDK\jdk-11.0.8.10-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\emers\.oh-my-posh;C:\Python310\Scripts\;C:\Python310\;C:\Program Files\OpenJDK\jdk-11.0.8.10-hotspot\bin;C:\Program Files (x86)\OpenJDK\jdk-8.0.262.10-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\emers\Documents\flutter\bin;C:\Users\emers\Documents\Gradle\gradle-7.3.3\bin;D:\Programas\Android\sdk\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;D:\Programas\Android\sdk\\tools\;D:\Programas\Android\sdk\\tools\bin;D:\Programas\Android\sdk\\platform-tools;C:\Maven\apache-maven-3.8.4\bin;C:\Program Files\Amazon\AWSCLI\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\emers\AppData\Local\Microsoft\WindowsApps;C:\Users\emers\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\emers\AppData\Roaming\npm;C:\Users\emers\AppData\Local\gitkraken\bin;."/>
+    <property name="maven.conf" value="C:\Maven\apache-maven-3.8.4/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Maven\apache-maven-3.8.4\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\emers"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="emerson"/>
+    <property name="java.class.path" value="C:\Maven\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -f e:\Projetos\Selenium\selenium_navegation\pom.xml"/>
+    <property name="java.home" value="C:\Program Files\OpenJDK\jdk-11.0.8.10-hotspot"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.8-internal"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="sun.stderr.encoding" value="cp65001"/>
+    <property name="maven.home" value="C:\Maven\apache-maven-3.8.4"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.stdout.encoding" value="cp65001"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.selenium.navegation.runner.RunSuiteTest" name="runScenario" time="19.269"/>
+  <testcase classname="com.selenium.navegation.runner.RunSuiteTest" name="runScenario" time="18.992"/>
+</testsuite>

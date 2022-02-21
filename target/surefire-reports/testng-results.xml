@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-21T11:42:13 BRT" name="com.selenium.navegation.runner.RunSuiteTest" finished-at="2022-02-21T11:42:51 BRT" duration-ms="38759">
+    <groups>
+      <group name="cucumber">
+        <method signature="RunSuiteTest.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.selenium.navegation.runner.RunSuiteTest@7817fd62]" name="runScenario" class="com.selenium.navegation.runner.RunSuiteTest"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-02-21T11:42:13 BRT" name="Command line test" finished-at="2022-02-21T11:42:51 BRT" duration-ms="38759">
+      <class name="com.selenium.navegation.runner.RunSuiteTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.selenium.navegation.runner.RunSuiteTest@7817fd62]" started-at="2022-02-21T11:42:13 BRT" name="setUpClass" finished-at="2022-02-21T11:42:13 BRT" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.selenium.navegation.runner.RunSuiteTest@7817fd62]" started-at="2022-02-21T11:42:13 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-21T11:42:32 BRT" duration-ms="19264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Preencher do formulário"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.selenium.navegation.runner.RunSuiteTest@7817fd62]" started-at="2022-02-21T11:42:32 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-02-21T11:42:51 BRT" duration-ms="18995" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Preencher do formulário"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[login]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.selenium.navegation.runner.RunSuiteTest@7817fd62]" started-at="2022-02-21T11:42:51 BRT" name="tearDownClass" finished-at="2022-02-21T11:42:51 BRT" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.selenium.navegation.runner.RunSuiteTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.selenium.navegation.runner.RunSuiteTest -->
+</testng-results>
