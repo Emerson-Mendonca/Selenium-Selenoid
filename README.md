@@ -1,4 +1,4 @@
-# Seleniun Test Google forms
+# Selenium Test Google forms
 
 ## Getting Started
 Clonar o projeto de automação
