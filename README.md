@@ -41,4 +41,4 @@ comando mvn test para executar os testes automatizados:
 Parametros de execução do cucumber:
 
 	//executa os cenários de testes contendo as tags passadas
-        @all @MOBILE @MOBILE
+        @all @MOBILE @WEB
