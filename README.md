@@ -11,10 +11,9 @@ https://alelo.visualstudio.com/AleloAuto-2.0/_git/aleloauto-automacao
 * Maven  
 
 * Docker
+    - Selenoid(https://aerokube.com/selenoid/latest/)
 
 ## Running Docker
-
-Executar o comando mvn test para executar os testes automatizados.
 
 comando Docker para baixa o container:
 
@@ -23,6 +22,10 @@ comando Docker para baixa o container:
 Caminho para acessar o Selenoid:
 
     http://localhost:8083/
+
+![Screenshot](Screenshot_HOME.png)
+
+![Screenshot](Screenshot_CHROME.png)
 
 
 ## Running tests
